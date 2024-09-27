@@ -1,0 +1,1 @@
+# SQL-India-election-2024-analyis
